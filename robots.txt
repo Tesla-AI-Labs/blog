@@ -1,1 +1,1 @@
-Sitemap: https://tesla-ai-labs.github.io/blog/sitemap.xml
+Sitemap: https://blog.teslaailab.ml/sitemap.xml
